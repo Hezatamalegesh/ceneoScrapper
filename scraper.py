@@ -23,6 +23,6 @@ if respons.status_code == requests.codes.ok:
                 "content": ,
                 "pros": ,
                 "cons":
-            }
+        }
     else:
         print("Nie ma opinii")
